@@ -3,7 +3,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Visible Ray",
 			"author": "KrampuX and more [Seturan]",
@@ -17,7 +22,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Gamma",
 			"author": "MindCap and more [Technical49]",
@@ -31,7 +41,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -45,7 +60,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -59,7 +79,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",

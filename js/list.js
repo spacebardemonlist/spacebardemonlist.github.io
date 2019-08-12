@@ -24,13 +24,13 @@ const d = {
 					"hz": "144hz"
 				},
 			],
-			"name": "Shitty INNARDS",
-			"author": "Keleru",
-			"more": "none",
-			"id": 49731309,
-			"pass": "000005",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ETrEuWM18Lk",
+			"name": "Visible Ray",
+			"author": "KrampuX and more [Seturan]"
+			"more": "KrampuX, Mayb3e, Non4med, Vismuth, DemN, Cyrpediem, ThorMode, Dister K, Hobbyboat, Xerabii, 1234, Dark Boshy, Spica, Ekko IV, Mulpan, Renovatio, Sousland, KeiAs, Senousia, MoonlightEVE, Hanavi, Ticky, LioLeo, and Dominator.",
+			"id": 48267315,
+			"pass": "147963",
+			"percentToQualify": 47,
+			"verificationVid": "https://youtu.be/hHpaB752peM",
 			"key": 0
 		},
 		/*=================================================================================*/

@@ -18,70 +18,10 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=_U8M90_FYro",
+					"user": "Gizbro",
+					"link": "https://www.youtube.com/watch?v=S8YnS_p3DFc",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "Ph1niX",
-					"link": "https://www.youtube.com/watch?v=kfZF-wOuf_4",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedSwitch",
-					"link": "https://www.youtube.com/watch?v=ETrEuWM18Lk",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedCraft",
-					"link": "https://www.youtube.com/watch?v=0fAwWB-T61E",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=0D_9ncwADSU",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "Revitin",
-					"link": "https://www.youtube.com/watch?v=YIQrKVzP0yQ",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=MHad9fp25GA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "GoddardL",
-					"link": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "reoode",
-					"link": "https://www.youtube.com/watch?v=TBZ3iB-wA4Y",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Sleynt",
-					"link": "https://www.youtube.com/watch?v=kNvBpOfXoMc",
-					"percent": 80,
-					"hz": "144hz"
-				},
-				{
-					"user": "K4slic",
-					"link": "https://www.youtube.com/watch?v=TPoP3iisHxo",
-					"percent": 63,
-					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty INNARDS",

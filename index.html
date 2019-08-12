@@ -6,7 +6,7 @@
     <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
     <link href="css/stylesheet.css" type="text/css" rel="stylesheet">
     <link rel="shortcut icon" href="https://gmdkoreaforum.com/favicon.ico" type="image/x-icon">
-    <meta name="description" content="Geometry Dash Shitty Forum.">
+    <meta name="description" content="Unofficial Geometry Dash Spacebar Demonlist">
     <meta name="viewport" content="user-scalable=no">
     <meta charset="UTF-8">
 </head>
@@ -18,8 +18,8 @@
     <script type='text/javascript' src="js/userData.js"></script>
     <cover-all id="hi">
         <header id="dl-header">
-            <div id="sitename"><strong>GD Shitty Forum Offical List </strong><small><em id="version-node"></em></small></div>
-            <div id="pc-link"><a href="https://discord.gg/Um3CYDV"><em><strong>Offical Discord</strong></a></em></div>
+            <div id="sitename"><strong>Unofficial GD Spacebar Demonlist </strong><small><em id="version-node"></em></small></div>
+            <div id="pc-link"><a href="https://discord.gg/QUjdjy5"><em><strong>Offical Discord</strong></a></em></div>
         </header>
         <div id="list">
         </div>
@@ -43,7 +43,7 @@
                         <hr>
                         <div id="records-title"><strong>Records</strong></div><br>
                         <div id="qualification"><strong id="levelqualify"></strong>% or better required to qualify<br><br>
-                            <center><a target="_blank" href="https://forms.gle/awmFyk6jkX4PbjHr8">> Submit Record <</a></center>
+                            <center><a target="_blank" href="https://forms.gle/k1wrKrETDbW2PWp18">> Submit Record <</a></center>
                         </div>
                         <br>
                     </center>
@@ -55,18 +55,16 @@
         </div>
         <div id="additional-information">
             <div id="inner-right-info">
-                <div><strong>Do you have a record to upload? Was your record updated or typed? <u><a target="_blank" href="https://forms.gle/awmFyk6jkX4PbjHr8">Request your record!</a></u></strong></div>
+                <div><strong>Do you have a record to request? <u><a target="_blank" href="https://forms.gle/k1wrKrETDbW2PWp18">Request your record!</a></u></strong></div>
                 <br>
                 <div>
-                    This list has modified the <a href="//urdemonlist.github.io" target="_blank">Unrated Demon List</a> produced <strong>over42_delta</strong> and <strong>TheZakkAttack</strong>.
+                    This list has modified the <a href="//urdemonlist.github.io" target="_blank">Unrated Demon List</a> produced by <strong>over42_delta</strong> and <strong>TheZakkAttack</strong>.
                     <br><br>
                     You can apply for a record entry if you meet the following requirements:
                     <ul>
-                        <li>achieved record without using hack (However, FPS Bypass is available.)</li>
-                        <li>have achieved recordings using game maps that are not different from the original</li>
-                        <li>do not use secret routes or bug routes</li>
+                        <li>Have complete a level on the list without using hacks (however, you may use the FPS bypass).</li>
+                        <li>Have a video uploaded to YouTube of the completion.</li>
                     </ul><br><br>
-                    &copy; 2019 Shitty Forum and RedLime
                 </div>
             </div>
             <hr>
@@ -139,9 +137,9 @@
     function getUserPoint(rank, percent, cutline, hz) {
         var hzpoint = 0.0;
         if (hz == null) {
-            hzpoint = 1;
+            hzpoint = 0;
         } else if (hz == "Mobile") {
-            hzpoint = 0.25;
+            hzpoint = 0;
         } else {
             var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
             if (hzInt >= 110) {

@@ -3,15 +3,10 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
 			"name": "Visible Ray",
-			"author": "KrampuX and more [Seturan]",
+			"author": "KrampuX and more [Seturan]"
 			"more": "KrampuX, Mayb3e, Non4med, Vismuth, DemN, Cyrpediem, ThorMode, Dister K, Hobbyboat, Xerabii, 1234, Dark Boshy, Spica, Ekko IV, Mulpan, Renovatio, Sousland, KeiAs, Senousia, MoonlightEVE, Hanavi, Ticky, LioLeo, and Dominator.",
 			"id": 48267315,
 			"pass": "147963",
@@ -22,12 +17,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
 			"name": "Gamma",
 			"author": "MindCap and more [Technical49]",
@@ -41,12 +31,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -60,12 +45,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -79,12 +59,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
-					"percent": 100,
-					"hz": "144hz"
-				},
+				
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -93,5 +68,69 @@ const d = {
 			"pass": "Not allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 4
+			"key": 5
 		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Sonic Wave",
+			"author": "AcropolisBoy",
+			"more": "none",
+			"id": 55367155,
+			"pass": "001006",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=g4rutNG7Drs",
+			"key": 6
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Requiem",
+			"author": "MiiNi03",
+			"more": "none",
+			"id": 52460725,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=vG0ReCqJT_c",
+			"key": 7
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty The Yandere",
+			"author": "MiiNi03",
+			"more": "none",
+			"id": 54644929,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=f8IPsUcXNYI",
+			"key": 8
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Step To Hell",
+			"author": "oSpace and more [oSpace]",
+			"more": "none",
+			"id": 54868104,
+			"pass": "050319",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"key": 9
+		},
+		/*=================================================================================*/
+	],
+	"version": [
+		1,
+		5,
+		1
+	]
+};const list = d.list;const version = d.version;

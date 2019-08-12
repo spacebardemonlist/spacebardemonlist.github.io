@@ -6,7 +6,7 @@ const d = {
 				
 			],
 			"name": "Visible Ray",
-			"author": "KrampuX and more [Seturan]"
+			"author": "KrampuX and more [Seturan]",
 			"more": "KrampuX, Mayb3e, Non4med, Vismuth, DemN, Cyrpediem, ThorMode, Dister K, Hobbyboat, Xerabii, 1234, Dark Boshy, Spica, Ekko IV, Mulpan, Renovatio, Sousland, KeiAs, Senousia, MoonlightEVE, Hanavi, Ticky, LioLeo, and Dominator.",
 			"id": 48267315,
 			"pass": "147963",

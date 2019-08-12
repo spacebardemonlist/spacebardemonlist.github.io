@@ -93,5 +93,5 @@ const d = {
 			"pass": "Not allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 5
+			"key": 4
 		},

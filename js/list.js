@@ -1,4 +1,307 @@
-/*=================================================================================*/
+const d = {
+	"list": [
+		/*=================================================================================
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Gamma",
+			"author": "Shitty Forum [RedCraft]",
+			"more": "none",
+			"id": 56774932,
+			"pass": "853822",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=cQ1fLYtsO_w",
+			"key": 0
+		},
+		=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=_U8M90_FYro",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Ph1niX",
+					"link": "https://www.youtube.com/watch?v=kfZF-wOuf_4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedSwitch",
+					"link": "https://www.youtube.com/watch?v=ETrEuWM18Lk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=0fAwWB-T61E",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=0D_9ncwADSU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=YIQrKVzP0yQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=MHad9fp25GA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=yW9oNZ07yC8",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=TBZ3iB-wA4Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Sleynt",
+					"link": "https://www.youtube.com/watch?v=kNvBpOfXoMc",
+					"percent": 80,
+					"hz": "144hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=TPoP3iisHxo",
+					"percent": 63,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty INNARDS",
+			"author": "Keleru",
+			"more": "none",
+			"id": 49731309,
+			"pass": "000005",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=ETrEuWM18Lk",
+			"key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=jKOEJbUxbzM",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=mKAFHnmAlWI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=2OP-khKaGLo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=Yj7090j9Xug",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Triple Six",
+			"author": "LJosh",
+			"more": "none",
+			"id": 56498868,
+			"pass": "000005",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=dvKFVRzIE0I",
+			"key": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=DBXQUmF9bOA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=QFZPew7V1AU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xiko",
+					"link": "https://www.youtube.com/watch?v=Br0zJnELDHA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=tg0wGpK08iQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
+					"percent": 95,
+					"hz": "75hz"
+				},
+			],
+			"name": "Shitty Orochi",
+			"author": "Keleru",
+			"more": "none",
+			"id": 49907278,
+			"pass": "123456",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
+			"key": 2
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=jbakXMYmylk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
+					"percent": 81,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty WOW",
+			"author": "oSpace [LJosh]",
+			"more": "none",
+			"id": 56712681,
+			"pass": "789123",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=138W2m_c9Gk",
+			"key": 3
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=XMOaR7X9j60",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=_FqXxhtcIzo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Denfade",
+					"link": "https://www.youtube.com/watch?v=0SlFx_IRn7U",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=o7axDA8040c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=60bIjazYhA8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=QujrmwBzIjk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=_1vameShst8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=lAkU4BWWto8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=bO6bYcfdkoE",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=b2Samlnkxm4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=0ugMfZOT5DQ",
+					"percent": 98,
+					"hz": "Mobile"
+				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://www.youtube.com/watch?v=0JWdFZhIKNI",
+					"percent": 95,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MiiNi03",
+					"link": "https://www.youtube.com/watch?v=tupDFCrwYaw",
+					"percent": 90,
+					"hz": "Mobile"
+				},
+				{
+					"user": "EpsilonP",
+					"link": "https://www.youtube.com/watch?v=bPK1L41mLVs",
+					"percent": 86,
+					"hz": "60hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=YHwVf3TspZ8",
+					"percent": 80,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Missing Benefits",
+			"author": "Keleru",
+			"more": "none",
+			"id": 52494510,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
+			"key": 4
+		},
+		/*=================================================================================*/
 		{
 			"vids": [
 				{
